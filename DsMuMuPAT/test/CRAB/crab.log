@@ -1,0 +1,4 @@
+DEBUG 2022-08-19 06:47:53.269 UTC: 	 CRAB Client version: v3.220323
+DEBUG 2022-08-19 06:47:53.270 UTC: 	 Running on: Linux lxplus782.cern.ch 3.10.0-1160.71.1.el7.x86_64 #1 SMP Tue Jun 28 15:37:28 UTC 2022 x86_64 x86_64 x86_64 GNU/Linux - CentOS Linux 7 (Core)
+DEBUG 2022-08-19 06:47:53.270 UTC: 	 Executing command: 'report'
+DEBUG 2022-08-19 06:47:53.270 UTC: 	 Found CRAB cache file /afs/cern.ch/user/s/skamble/.crab3
